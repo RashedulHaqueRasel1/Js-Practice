@@ -155,3 +155,27 @@
 // }
 
 // console.log(count)
+
+
+
+//   কোন কোন অক্ষর (character) কয়বার এসেছে, সেটা বের করে console-এ দেখাও।
+
+// const word = "development";
+// let count = {}
+
+// for (let i = 0; i < word.length; i++) {
+//     // console.log(word[i])
+
+//     const letter = word[i]
+
+//     if (count[letter]) {
+//         count[letter]++
+//     } else {
+//         count[letter] = 1
+//     }
+// }
+
+// for (let key in count) {
+//     console.log(key + " = " + count[key]);
+// }
+
